@@ -44,7 +44,7 @@ public class InserData {
 		
 		state.executeUpdate();
 		
-		System.out.println("Insert Complete");
+		System.out.println("Insert Berhasil Bro");
 	}
 
 }
